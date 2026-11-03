@@ -1,0 +1,4 @@
+meter_id,plant_id,meter_name,unit,cadence_minutes,status
+MTR-PLANT-001-001,PLANT-001,Submeter 01,kWh_interval,15,ACTIVE
+MTR-PLANT-001-002,PLANT-001,Submeter 02,kWh_interval,15,ACTIVE
+MTR-PLANT-001-003,PLANT-001,Submeter 03,kWh_interval,15,ACTIVE

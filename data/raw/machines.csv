@@ -1,0 +1,4 @@
+machine_id,plant_id,machine_name,machine_type,rated_power_kw,status
+MCH-001,PLANT-001,Production Machine 01,CNC,18.14,ACTIVE
+MCH-002,PLANT-001,Production Machine 02,COMPRESSOR,12.09,ACTIVE
+MCH-003,PLANT-001,Production Machine 03,PUMP,19.06,ACTIVE

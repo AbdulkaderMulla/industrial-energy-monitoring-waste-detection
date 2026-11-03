@@ -1,0 +1,6 @@
+ground_truth_id,issue_type,entity_id,expected_detection,expected_decision,rule,label_source
+GT-0001,TARIFF_TIMEZONE_MISMATCH,TAR-2026-002,True,CORRECT_TARIFF_TIMEZONE,tariff timezone differs from plant timezone,INJECTED_DEFECT
+GT-0002,DUPLICATE_READING,EXC-DUPLICATE-001,True,EXCLUDE_DUPLICATE_ROW,repeated reading_id; first occurrence is authoritative,INJECTED_DEFECT
+GT-0003,UNIT_KW_KWH_CONFUSION,EXC-UNIT-001,True,EXCLUDE_ROW_AND_REVIEW_UNIT,interval row declares a unit other than kWh_interval,INJECTED_DEFECT
+GT-0004,METER_MACHINE_HIERARCHY_VIOLATION,EXC-HIERARCHY-001,True,EXCLUDE_UNMAPPED_ROW,machine is not assigned to the reading's meter,INJECTED_DEFECT
+GT-0005,METER_TOTAL_MISMATCH,MTR-PLANT-001-001,True,HOLD_METER_FOR_RECONCILIATION,register total differs from sum of valid intervals beyond tolerance,INJECTED_DEFECT

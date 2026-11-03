@@ -1,0 +1,72 @@
+{
+  "per_issue_type": {
+    "DUPLICATE_READING": {
+      "expected": 1,
+      "detected": 1,
+      "true_positive": 1,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "ENERGY_INTENSITY_SHIFT": {
+      "expected": 4,
+      "detected": 4,
+      "true_positive": 4,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "HIGH_IDLE_CONSUMPTION": {
+      "expected": 68,
+      "detected": 68,
+      "true_positive": 68,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "METER_MACHINE_HIERARCHY_VIOLATION": {
+      "expected": 1,
+      "detected": 1,
+      "true_positive": 1,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "METER_TOTAL_MISMATCH": {
+      "expected": 1,
+      "detected": 1,
+      "true_positive": 1,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "TARIFF_TIMEZONE_MISMATCH": {
+      "expected": 1,
+      "detected": 1,
+      "true_positive": 1,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "UNIT_KW_KWH_CONFUSION": {
+      "expected": 1,
+      "detected": 1,
+      "true_positive": 1,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  "totals": {
+    "true_positive": 77,
+    "false_positive": 0,
+    "false_negative": 0
+  }
+}

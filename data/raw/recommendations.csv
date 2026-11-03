@@ -1,0 +1,4 @@
+recommendation_id,machine_id,created_utc,reason,baseline_kwh,expected_savings_kwh,expected_savings_inr,priority,status
+REC-2026-000001,MCH-001,2026-01-07T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,153.03799,38.2595,252.71902,HIGH,OPEN
+REC-2026-000002,MCH-002,2026-01-07T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,102.17378,25.54344,169.50137,HIGH,OPEN
+REC-2026-000003,MCH-003,2026-01-07T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,160.63693,40.15923,262.40552,HIGH,OPEN

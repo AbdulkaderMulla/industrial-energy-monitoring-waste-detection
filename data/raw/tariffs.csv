@@ -1,0 +1,4 @@
+tariff_id,plant_id,tariff_name,start_hour_utc,end_hour_utc,rate_inr_per_kwh,effective_from,effective_to,timezone
+TAR-2026-001,PLANT-001,OFF_PEAK,0,6,5.0,2026-01-01T00:00:00Z,,UTC
+TAR-2026-002,PLANT-001,NORMAL,6,18,7.0,2026-01-01T00:00:00Z,,Asia/Kolkata
+TAR-2026-003,PLANT-001,PEAK,18,24,11.0,2026-01-01T00:00:00Z,,UTC

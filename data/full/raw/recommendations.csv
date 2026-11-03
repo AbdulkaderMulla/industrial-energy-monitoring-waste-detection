@@ -1,0 +1,21 @@
+recommendation_id,machine_id,created_utc,reason,baseline_kwh,expected_savings_kwh,expected_savings_inr,priority,status
+REC-2026-000001,MCH-001,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,2026.11152,506.52788,3312.09256,HIGH,OPEN
+REC-2026-000002,MCH-002,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,1358.40208,339.60052,2218.26001,HIGH,OPEN
+REC-2026-000003,MCH-003,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,2143.56104,535.89026,3503.19901,HIGH,OPEN
+REC-2026-000004,MCH-004,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,2601.20321,650.3008,4238.98185,HIGH,OPEN
+REC-2026-000005,MCH-005,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,2031.31421,507.82855,3306.67342,HIGH,OPEN
+REC-2026-000006,MCH-006,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,2672.46425,668.11606,4357.96439,HIGH,OPEN
+REC-2026-000007,MCH-007,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,4952.5938,1238.14845,8085.451,HIGH,OPEN
+REC-2026-000008,MCH-008,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,3562.32844,890.58211,5812.93821,HIGH,OPEN
+REC-2026-000009,MCH-009,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,2099.67855,524.91964,3422.4546,HIGH,OPEN
+REC-2026-000010,MCH-010,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,3037.2517,759.31292,4960.07874,HIGH,OPEN
+REC-2026-000011,MCH-011,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,5143.04147,1285.76037,8400.55464,HIGH,OPEN
+REC-2026-000012,MCH-012,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,1664.9854,416.24635,2722.33551,HIGH,OPEN
+REC-2026-000013,MCH-013,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,2680.82129,670.20532,4384.89346,HIGH,OPEN
+REC-2026-000014,MCH-014,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,4965.60185,1241.40046,8116.78712,HIGH,OPEN
+REC-2026-000015,MCH-015,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,6145.89651,1536.47413,10036.99086,HIGH,OPEN
+REC-2026-000016,MCH-016,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,4386.77776,1096.69444,7180.01102,HIGH,OPEN
+REC-2026-000017,MCH-017,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,3248.59272,812.14818,5307.77729,HIGH,OPEN
+REC-2026-000018,MCH-018,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,5840.60507,1460.15127,9555.04807,HIGH,OPEN
+REC-2026-000019,MCH-019,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,1776.47022,444.11755,2899.03683,HIGH,OPEN
+REC-2026-000020,MCH-020,2026-03-31T00:00:00Z,Review idle shutdown policy; estimate is 25% of observed valid idle energy.,1996.03212,499.00803,3263.40539,HIGH,OPEN

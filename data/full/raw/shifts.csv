@@ -1,0 +1,4 @@
+shift_id,plant_id,shift_name,start_time,end_time,effective_from,effective_to
+SH-001,PLANT-001,DAY,06:00,14:00,2026-01-01T00:00:00Z,
+SH-002,PLANT-001,EVENING,14:00,22:00,2026-01-01T00:00:00Z,
+SH-003,PLANT-001,NIGHT,22:00,06:00,2026-01-01T00:00:00Z,

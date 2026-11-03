@@ -1,0 +1,24 @@
+{
+  "profile": "full",
+  "seed": 20261022,
+  "files_compared": 15,
+  "identical": true,
+  "mismatched_files": [],
+  "sha256_run_1": {
+    "raw/batch_machine.csv": "549db2096b5a8d59593cce3759c4a8623f114adc3f2deb588e32fcc062916789",
+    "raw/energy_readings.csv": "36d160fcbf9b7112dd5702d6b770091c6d93f97cb0a5626c1af7aca87f63410b",
+    "raw/machines.csv": "f2dd5bce2cc5e473ce56e60649f820e753893e8f77a8ec81ed032312a7e46900",
+    "raw/maintenance_events.csv": "b824c40b4d0215d1cd9db3ba9cb44fb031afebf7af5906f5992568180f9d7c53",
+    "raw/meter_machine.csv": "83b2e99c8ede2c8c58f53cb842bf37f99676fa93e8a432eb8d1bb76854ebecb3",
+    "raw/meter_register_totals.csv": "1f44939afc98644dec287019e1c84da92af42804e8d1dac297c4f295141eef02",
+    "raw/meters.csv": "d8e0fd064708c98e9361bfdbfb21eab003cf718970aabe9b8c41e2ad9d27678e",
+    "raw/plants.csv": "8137901e59c9241f3689bf9757392eccc32f630b9e07bb3a560811459f0b3d0f",
+    "raw/production_batches.csv": "fe798fb98a65275c51fdd54a08e5de2e6ab3c423c256ff54c4398e1d982dd2e9",
+    "raw/recommendations.csv": "8f4ef88aea31b6ee6aee8144587fb42404d39f6d84d0dbd8e31baf0c19d2e0b1",
+    "raw/shifts.csv": "3ce20ae105ead9ae1e092ea1dd88af0acd4e21b567954d22efc43812ad8d1687",
+    "raw/state_events.csv": "d76982bda310dde92b13f3dceffd8dcb3e6dc8cb5ef9fac12f10f385133454f8",
+    "raw/tariffs.csv": "1cee7ca1be075134e6d7a8e68845332551244442a0eab227dde79f064e583c7d",
+    "raw/weather_observations.csv": "8ea598574db9c0e5d59435a85975131e11f888383c396b1416fae4edfdc9337a",
+    "ground_truth/ground_truth.csv": "b816381ef8252bb9f4494cb37b4cfb1232aa584e48178748b709e62eba99e58d"
+  }
+}

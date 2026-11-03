@@ -1,0 +1,41 @@
+{
+  "valid": true,
+  "errors": [],
+  "exceptions": {
+    "excluded_readings": {
+      "DUPLICATE_READING": 1,
+      "UNIT_KW_KWH_CONFUSION": 1,
+      "METER_MACHINE_HIERARCHY_VIOLATION": 1
+    },
+    "noncanonical_reading_units": [
+      "kW"
+    ],
+    "effective_dated_hierarchy_violation_count": 1,
+    "effective_dated_hierarchy_violation_row_ids": [
+      "EXC-HIERARCHY-001"
+    ],
+    "meter_register_mismatches": [
+      "MTR-PLANT-001-001"
+    ],
+    "tariff_timezone_mismatches": [
+      "TAR-2026-002"
+    ]
+  },
+  "counts": {
+    "plants": 1,
+    "meters": 20,
+    "machines": 20,
+    "meter_machine": 20,
+    "energy_readings": 172662,
+    "production_batches": 2000,
+    "batch_machine": 2000,
+    "shifts": 3,
+    "tariffs": 3,
+    "weather_observations": 360,
+    "maintenance_events": 10,
+    "recommendations": 20,
+    "state_events": 4818,
+    "meter_register_totals": 20
+  },
+  "validation_scope": "Structural rules are errors; labeled source-quality anomalies are reported separately as exceptions."
+}

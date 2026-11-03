@@ -1,0 +1,27 @@
+{
+  "profile": "full",
+  "seed": 20261022,
+  "baseline_meter_count": 20,
+  "days": 90,
+  "interval_minutes": 15,
+  "expected_baseline_readings": 172800,
+  "energy_reading_rows_including_gaps_and_fixtures": 172662,
+  "meter_gap_intervals": 141,
+  "production_batches": 2000,
+  "weather_observations": 360,
+  "maintenance_events": 10,
+  "recommendations": 20,
+  "state_events": 4818,
+  "ground_truth_labels": 77,
+  "ground_truth_by_type": {
+    "DUPLICATE_READING": 1,
+    "ENERGY_INTENSITY_SHIFT": 4,
+    "HIGH_IDLE_CONSUMPTION": 68,
+    "METER_MACHINE_HIERARCHY_VIOLATION": 1,
+    "METER_TOTAL_MISMATCH": 1,
+    "TARIFF_TIMEZONE_MISMATCH": 1,
+    "UNIT_KW_KWH_CONFUSION": 1
+  },
+  "injected_defects": 9,
+  "source": "synthetic; no external data"
+}

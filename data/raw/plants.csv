@@ -1,0 +1,2 @@
+plant_id,name,location,timezone,status
+PLANT-001,Synthetic Plant Alpha,Synthetic site,UTC,ACTIVE
